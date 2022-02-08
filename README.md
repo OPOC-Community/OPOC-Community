@@ -60,6 +60,9 @@
 | [<img src="https://avatars.githubusercontent.com/u/91196806?v=4" width=115><br><sub>@srajan-kiyotaka</sub>](https://github.com/srajan-kiyotaka) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 
+| [<img src="https://avatars.githubusercontent.com/u/77329760?v=4" width=115><br><sub>@Satvik-10</sub>](https://github.com/Satvik-10) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: |
+
 ## T
 
 ## U
