@@ -15,6 +15,9 @@
 | [<img src="https://github.com/AdarshAnand67.png?size=115" width=115><br><sub>@AdarshAnand67</sub>](https://github.com/AdarshAnand67) |
 | :----------------------------------------------------------------------------------------------------------------------------------: |
 
+| [<img src="https://avatars.githubusercontent.com/u/72445283?v=4" width=115><br><sub>@anish-natekar</sub>](https://github.com/anish-natekar) |
+| :----------------------------------------------------------------------------------------------------------------------------------: |
+
 ## B
 
 ## C
